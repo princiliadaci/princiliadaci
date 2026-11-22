@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi, I'm Princilia DACI
 
-<!--
-**princiliadaci/princiliadaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master's student in Mathematical Sciences at AIMS Senegal, and student in statistics and economic analysis at ENSAE Pierre Ndiaye in Dakar.
 
-Here are some ideas to get you started:
+#### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/princiliadaci/vigie"><img src="assets/vigie_logo.png" width="96" alt="Vigie logo"></a><br>
+      <b>Vigie</b><br>
+      <sub>Telegram assistant to track scholarship, Master's, internship and PhD applications</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/in/princiliadaci/details/projects/"><img src="assets/impactos_logo.png" width="96" alt="IMPACTOS logo"></a><br>
+      <b>IMPACTOS</b><br>
+      <sub>Making Africa's informal sector visible with data</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/in/princiliadaci/details/projects/"><img src="assets/macous_logo.png" width="96" alt="MACOUS logo"></a><br>
+      <b>MACOUS</b><br>
+      <sub>Free maths learning for children in Africa, even without internet</sub>
+    </td>
+  </tr>
+</table>
+
+More about my work on [LinkedIn](https://www.linkedin.com/in/princiliadaci/).
